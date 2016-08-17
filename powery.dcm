@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA219-SOT23
+D SOT-23 version of the INA219 current sense amp.
+$ENDCMP
+#
+$CMP MAX4080F
+D 76V High-side differntial current sense amplifier 5V/V gain
+K telecom automotive backplane external reference
+F http://datasheets.maximintegrated.com/en/ds/MAX4080-MAX4081.pdf
+$ENDCMP
+#
+#End Doc Library
